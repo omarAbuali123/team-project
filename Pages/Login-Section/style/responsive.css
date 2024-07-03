@@ -1,0 +1,32 @@
+
+
+
+
+@media screen and (max-width:1200px){
+    html{
+        font-size: 13px;
+    }
+    .movie-images{
+        display: none;
+    }
+    #Login-Fields{
+    border-radius: 8px;
+    }
+    body{
+        justify-content: center;
+    }
+    
+@media screen and (max-width:720px){
+    html{
+        font-size: 13px;
+    }
+    .movie-images{
+        display: none;
+    }
+    #Login-Fields{
+    border-radius: 8px;
+    }
+    body{
+        justify-content: center;
+    }
+    }
